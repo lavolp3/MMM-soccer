@@ -24,6 +24,7 @@ A Soccer Standings Module for MagicMirror², based on @fewiedens [MMM-soccer](ht
     {
         module: 'MMM-soccer',
         position: 'top_left',
+        header: 'MMM-soccer',
         config: {
             api_key: '',
             show: ['CL', 'BL1', 'PL'],
